@@ -10,7 +10,7 @@ let streamerList = [{
   stream_name: "freecodecamp",
   status: true
 }, {
-  stream_name: "storbeck",
+  stream_name: "monstercat",
   status: true
 }, {
   stream_name: "itsHafu",
